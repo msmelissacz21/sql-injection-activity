@@ -1,0 +1,16 @@
+button {
+	background-color: whitesmoke;
+	color: goldenrod;
+	padding: 14px 20px;
+	margin: 4px 0;
+	border: double;
+	width: 100%;
+    }
+
+button:hover {
+	opacity: 0.4;
+    }
+
+.container {
+	padding: 30px;
+    }
